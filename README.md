@@ -116,7 +116,7 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
 
 </div>
 
-> ⚙️ **Setup:** Replace each `repo=` value with your actual repository slugs for live commit counts and descriptions to appear.
+
 
 ---
 
@@ -126,9 +126,9 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
 
 | App | Version | Stage | Last Updated | What's New |
 | :---: | :---: | :---: | :---: | :--- |
-| ☁️ **ZyCLOUD** | `v0.2.0-alpha` | 🟡 Pre-Beta | Jun 2026 | Local storage engine, encryption layer scaffolding |
-| ⚡ **ZyFOCUS** | `v1.2.0` | 🟢 Active | Jun 2026 | UX overhaul, focus session improvements, bug fixes |
-| 🎓 **ZyEXAM** | `v0.0.1-dev` | 🔵 R&D | Jun 2026 | Initial architecture design & module planning |
+| ☁️ **ZyCLOUD** | `null` | 🟡 Pre-Beta | Jun 2026 | Local storage engine, encryption layer scaffolding |
+| ⚡ **ZyFOCUS** | `v1.5.0` | 🟢 Active | Jun 2026 | UX overhaul, focus session improvements, bug fixes |
+| 🎓 **ZyEXAM** | `null` | 🔵 R&D | Jun 2026 | Initial architecture design & module planning |
 
 </div>
 
