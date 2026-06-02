@@ -2,7 +2,7 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=2196F3&center=true&vCenter=true&width=700&height=100&lines=ZAKARIA+QASID+AKA+ZACH+Q;CEO+OF+ZYTECH+GROUP;THE+FUTURE+OF+THE+WORLD" alt="Typing SVG" />
 
-<img src="https://github.com/ZakariaQasid.png" alt="Zakaria Qasid" width="180" height="180" style="border-radius: 50%; border: 4px solid #2196F3; box-shadow: 0px 0px 20px #2196F3;" />
+<img src="https://github.com/ZakariaQasid.png" alt="Zakaria Qasid" width="180" height="180" style="border-radius: 50%; border: 4px solid #2196F3; box-shadow: 0px 0px 25px rgba(33, 150, 243, 0.6); transform: scale(1); transition: 0.3s;" />
 
 ### 🌌 GLOBAL ARCHITECT & FULL-STACK ENGINEER
 **Casablanca, Morocco 🇲🇦 | ZyTech™ Global Infrastructure**
@@ -24,12 +24,30 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 *Redefining infrastructure through local-first principles and modern architecture.*
 
 <div align="center">
-
-| ☁️ zyCLOUD | ⚡ zyFOCUS | 🛡️ zySECURITY | 🎓 zyEXAM |
-| :--- | :--- | :--- | :--- |
-| **Storage without the need of cloud.** | **A productivity ecosystem for focused work.** | **Uncompromising local security protocols.** | **Next-gen academic assessment systems.** | 
-| *Active Deployment* | *Optimizing UX* | *Stealth Mode* | *R&D Phase* | 
-
+<table border="0" style="border-collapse: collapse; width: 100%; border: 1px solid #2196F3;">
+  <tr bgcolor="#0d1117">
+    <td align="center" style="padding: 15px; border: 1px solid #2196F3;">
+      <kbd>☁️ zyCLOUD</kbd><br><br>
+      <b>Storage without the need of cloud.</b><br><br>
+      <code>⚡ Active Deployment</code>
+    </td>
+    <td align="center" style="padding: 15px; border: 1px solid #2196F3;">
+      <kbd>⚡ zyFOCUS</kbd><br><br>
+      <b>A productivity ecosystem for focused work.</b><br><br>
+      <code>🎨 Optimizing UX</code>
+    </td>
+    <td align="center" style="padding: 15px; border: 1px solid #2196F3;">
+      <kbd>🛡️ zySECURITY</kbd><br><br>
+      <b>Uncompromising local security protocols.</b><br><br>
+      <code>🥷 Stealth Mode</code>
+    </td>
+    <td align="center" style="padding: 15px; border: 1px solid #2196F3;">
+      <kbd>🎓 zyEXAM</kbd><br><br>
+      <b>Next-gen academic assessment systems.</b><br><br>
+      <code>🧪 R&D Phase</code>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -41,14 +59,44 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 
 ---
 
-## 🔗 Central Hub & Quick Links
-*Direct access portals to active project repositories, documentation nodes, and internal networks.*
+## 🖥️ Interactive Core Control Panel
+*Click on the modules below to expand internal documentation and active manifests.*
 
+<details>
+<summary><b>🌐 🏛️ [NODE-01] Central Hub & Quick Links (Expand)</b></summary>
+<br>
 <div align="center">
 
 | 📂 Production Nodes | 📖 Specifications & Docs | 🌐 Network Portals |
 | :--- | :--- | :--- |
 | • [Main Repository](https://github.com/ZakariaQasid) <br> • [ZyUI Core Source](https://github.com/ZakariaQasid?tab=repositories) <br> • [Active Beta Deployments](https://zytechg.vercel.app/) | • [ZyUI Design Framework Guide](#) <br> • [zySERVICES System Architecture](#) <br> • [Local-First Protocol Specs](#) | • [Official Executive Portfolio](https://zytechg.vercel.app/ceo.html) <br> • [Global Services Gateway](https://patreon.com/zyservices) <br> • [LinkedIn Professional Registry](https://linkedin.com/in/zakaria-qasid-637989266/) |
+
+</div>
+</details>
+
+<details>
+<summary><b>🛠️ 🔑 [NODE-02] Development Philosophy & Core Workflow (Expand)</b></summary>
+<br>
+<blockquote>
+  <h3>⚡ Architectural Ruleset:</h3>
+  <ul>
+    <li><b>Performance First:</b> Strict implementation of Vanilla JS/HTML/CSS. Zero structural framework dependency.</li>
+    <li><b>Local-First Paradigm:</b> On-device data priority model before network handshakes.</li>
+    <li><b>Modular Evolution:</b> Reusable design engineering components leveraging the <b>ZyUI</b> framework.</li>
+    <li><b>Encryption Standard:</b> Native architectural layer security protocols.</li>
+  </ul>
+</blockquote>
+</details>
+
+---
+
+## 🚀 Active Forge & Project Repositories
+*Dynamic software modules currently compiled inside the network registry.*
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZakariaQasid&repo=zyFOCUS&theme=radical&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3" width="49.5%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ZakariaQasid&repo=ZyVault&theme=radical&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3" width="49.5%" />
 
 </div>
 
@@ -78,16 +126,6 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 
 ---
 
-## 🛠️ Development Philosophy & Workflow
-*How I build high-tier, performant software.*
-
-- ⚡ **Performance First:** Preference for "Vanilla" JS/HTML/CSS to eliminate framework overhead.
-- 📂 **Local-First:** Prioritizing on-device data storage before ever hitting the wire.
-- 🧩 **Modular Design:** Building reusable UI components via the **ZyUI** proprietary framework.
-- 🔐 **Privacy by Design:** Implementing encryption at the architectural level, not as an afterthought.
-
----
-
 ## 📊 Neural Network Command Center (Global Analytics)
 
 <div align="center">
@@ -109,16 +147,6 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 
 ---
 
-## ⚡ Dynamic Production Stream (Latest Repositories)
-*Automated node injecting my most recently updated open-source repositories directly from the grid.*
-
-<!-- START_SECTION:recent-repos -->
-<!-- END_SECTION:recent-repos -->
-
-> 🤖 *Telemetry updated automatically via scheduled GitHub workflows.*
-
----
-
 ## 🧪 Technological Arsenal
 
 <div align="center">
@@ -134,20 +162,28 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 <table border="0">
   <tr>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/100/0d1117/2196F3?text=ZyTech" alt="ZyTech Global" style="border: 2px solid #2196F3; border-radius: 12px; padding: 5px;" /><br><br>
-      <b>ZyTech Global</b>
+      <div style="background: #0d1117; border: 2px solid #2196F3; border-radius: 20px; padding: 15px; box-shadow: 0px 4px 15px rgba(33, 150, 243, 0.3);">
+        <img src="https://via.placeholder.com/100/0d1117/2196F3?text=ZyTech" alt="ZyTech Global" style="border-radius: 10px;" /><br><br>
+        <b>ZyTech Global</b>
+      </div>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/100/0d1117/2196F3?text=ZyUI" alt="ZyUI Framework" style="border: 2px solid #2196F3; border-radius: 12px; padding: 5px;" /><br><br>
-      <b>ZyUI Framework</b>
+      <div style="background: #0d1117; border: 2px solid #2196F3; border-radius: 20px; padding: 15px; box-shadow: 0px 4px 15px rgba(33, 150, 243, 0.3);">
+        <img src="https://via.placeholder.com/100/0d1117/2196F3?text=ZyUI" alt="ZyUI Framework" style="border-radius: 10px;" /><br><br>
+        <b>ZyUI Framework</b>
+      </div>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/100/0d1117/2196F3?text=zyCLOUD" alt="zyCLOUD Protocol" style="border: 2px solid #2196F3; border-radius: 12px; padding: 5px;" /><br><br>
-      <b>zyCLOUD Protocol</b>
+      <div style="background: #0d1117; border: 2px solid #2196F3; border-radius: 20px; padding: 15px; box-shadow: 0px 4px 15px rgba(33, 150, 243, 0.3);">
+        <img src="https://via.placeholder.com/100/0d1117/2196F3?text=zyCLOUD" alt="zyCLOUD Protocol" style="border-radius: 10px;" /><br><br>
+        <b>zyCLOUD Protocol</b>
+      </div>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/100/0d1117/2196F3?text=zyFOCUS" alt="zyFOCUS Core" style="border: 2px solid #2196F3; border-radius: 12px; padding: 5px;" /><br><br>
-      <b>zyFOCUS System</b>
+      <div style="background: #0d1117; border: 2px solid #2196F3; border-radius: 20px; padding: 15px; box-shadow: 0px 4px 15px rgba(33, 150, 243, 0.3);">
+        <img src="https://via.placeholder.com/100/0d1117/2196F3?text=zyFOCUS" alt="zyFOCUS Core" style="border-radius: 10px;" /><br><br>
+        <b>zyFOCUS System</b>
+      </div>
     </td>
   </tr>
 </table>
