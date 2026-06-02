@@ -27,17 +27,30 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 
 | ☁️ zyCLOUD | ⚡ zyFOCUS | 🛡️ zySECURITY | 🎓 zyEXAM |
 | :--- | :--- | :--- | :--- |
-| **Storage without the need of cloud.** | **A productivity ecosystem for focused work.** | **Uncompromising local security protocols.** | **Next-gen academic assessment systems.** |
-| *Active Deployment* | *Optimizing UX* | *Stealth Mode* | *R&D Phase* |
+| **Storage without the need of cloud.** | **A productivity ecosystem for focused work.** | **Uncompromising local security protocols.** | **Next-gen academic assessment systems.** | 
+| *Active Deployment* | *Optimizing UX* | *Stealth Mode* | *R&D Phase* | 
 
 </div>
 
 ---
 
-## 🗺️ 2026  Strategic Roadmap
+## 🗺️ 2026 Strategic Roadmap
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=40&lines=Q2:+Launching+zyCLOUD+Beta;Q3:+Deploying+zySECURITY+Protocols;Q4:+zyEXAM+Platform+Integration" alt="Roadmap" />
 </p>
+
+---
+
+## 🔗 Central Hub & Quick Links
+*Direct access portals to active project repositories, documentation nodes, and internal networks.*
+
+<div align="center">
+
+| 📂 Production Nodes | 📖 Specifications & Docs | 🌐 Network Portals |
+| :--- | :--- | :--- |
+| • [Main Repository](https://github.com/ZakariaQasid) <br> • [ZyUI Core Source](https://github.com/ZakariaQasid?tab=repositories) <br> • [Active Beta Deployments](https://zytechg.vercel.app/) | • [ZyUI Design Framework Guide](#) <br> • [zySERVICES System Architecture](#) <br> • [Local-First Protocol Specs](#) | • [Official Executive Portfolio](https://zytechg.vercel.app/ceo.html) <br> • [Global Services Gateway](https://patreon.com/zyservices) <br> • [LinkedIn Professional Registry](https://linkedin.com/in/zakaria-qasid-637989266/) |
+
+</div>
 
 ---
 
@@ -56,7 +69,7 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
       <b>Physics & Chemistry | High School El Kindi (Bouskoura) </b><br>
       <i>2024 - 2026</i><br>
       Making it through the Moroccan educational system just to get My baccalaureate .<br><br>
-            <b> 💻 Full-Stack MZEN | Codcademy  </b><br>
+            <b> 💻 Full-Stack MZEN | Codecademy  </b><br>
       <i>2023 - 2025</i><br>
       Self-taught engineer via <b>Codecademy</b> since 2023. Merging Life Problems with complex system architecture to build the future.
     </td>
@@ -96,10 +109,50 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 
 ---
 
+## ⚡ Dynamic Production Stream (Latest Repositories)
+*Automated node injecting my most recently updated open-source repositories directly from the grid.*
+
+<!-- START_SECTION:recent-repos -->
+<!-- END_SECTION:recent-repos -->
+
+> 🤖 *Telemetry updated automatically via scheduled GitHub workflows.*
+
+---
+
 ## 🧪 Technological Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,figma,nodejs,express,mongodb,git,github,vscode,vercel,postman,linux,powershell,npm" />
+</div>
+
+---
+
+## 🎨 Ecosystem Branding & Logos
+*Visual identity matrices for the proprietary infrastructure networks.*
+
+<div align="center">
+<table border="0">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/100/0d1117/2196F3?text=ZyTech" alt="ZyTech Global" style="border: 2px solid #2196F3; border-radius: 12px; padding: 5px;" /><br><br>
+      <b>ZyTech Global</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/100/0d1117/2196F3?text=ZyUI" alt="ZyUI Framework" style="border: 2px solid #2196F3; border-radius: 12px; padding: 5px;" /><br><br>
+      <b>ZyUI Framework</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/100/0d1117/2196F3?text=zyCLOUD" alt="zyCLOUD Protocol" style="border: 2px solid #2196F3; border-radius: 12px; padding: 5px;" /><br><br>
+      <b>zyCLOUD Protocol</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://via.placeholder.com/100/0d1117/2196F3?text=zyFOCUS" alt="zyFOCUS Core" style="border: 2px solid #2196F3; border-radius: 12px; padding: 5px;" /><br><br>
+      <b>zyFOCUS System</b>
+    </td>
+  </tr>
+</table>
+
+*(Note: Replace placeholder image URLs with your explicit asset vectors/PNGs as they exit stealth phase.)*
 </div>
 
 ---
