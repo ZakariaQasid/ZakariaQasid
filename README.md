@@ -37,7 +37,7 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
    ╔════════╩═════════╗   ╔═════════╩════════╗   ╔═════════╩════════╗
    ║  🔧 ZYSERVICES   ║   ║    💼  ZYOD      ║   ║  🔬  ZYFUTURE   ║
    ║ Consumer Branch  ║   ║  B2B Division    ║   ║  R&D Division    ║
-   ║    [ ACTIVE ]    ║   ║ [ Coming 2027 ]  ║   ║ [ Coming 2027 ]  ║
+   ║    [ ACTIVE ]    ║   ║ [ Coming 2028 ]  ║   ║ [ Coming 2030 ]  ║
    ╚══════════════════╝   ╚══════════════════╝   ╚══════════════════╝
 ```
 
@@ -94,7 +94,7 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
 
 | Phase | Timeline | Milestone | Division | Status |
 | :---: | :---: | :--- | :---: | :---: |
-| Phase I | Q3 2026 | ZyFOCUS UX Finalization & Stable Release | ZyServices | 🟡 Nearly Done |
+| Phase I | Q3 2026 | ZyFOCUS UX Finalization & Stable Release | ZyServices | 🔴 R&D Phase - Mid Update |
 | Phase II | Q4 2026 | **ZyCLOUD Beta Launch** | ZyServices | 🟢 Beta |
 | Phase III | Q2 2027 | **ZyEXAM Platform Integration** | ZyServices | 🔵 Planned |
 | Phase IV | Q3 2027 | ZyOD B2B Division Official Launch | ZyOD | 🔵 Planned |
@@ -149,13 +149,22 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
       Leading the development of <b>ZyUI</b> and the full <b>ZyServices</b> product suite. Overseeing corporate architecture across all three ZyTech divisions. Specializing in "Local-First" applications that prioritize on-device storage and encryption.
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 Academic Foundation</h3>
-      <b>Physics & Chemistry | High School El Kindi (Bouskoura)</b><br>
-      <i>2024 - 2026</i><br>
-      Completing the Moroccan Baccalaureate — simultaneously building a company.<br><br>
-      <b>💻 Full-Stack MZEN | Codecademy</b><br>
-      <i>2023 - 2025</i><br>
-      Self-taught full-stack engineer via <b>Codecademy</b> since 2023. Merging life problems with complex system architecture to build the future.
+<div style="font-family: system-ui, -apple-system, sans-serif; max-width: 600px; color: #333333; line-height: 1.6;">
+    <h3>🎓 Academic Foundation</h3> 
+
+    <b>🌐 Digital Development Trainee | OFPPT - ISAG Casablanca</b><br> 
+    <i>2026 - Present</i><br> 
+    Accelerating technical mastery through hands-on industry experience at the Institut Spécialisé des Arts Graphiques.<br><br>
+
+    <b>Physics & Chemistry | High School El Kindi (Bouskoura)</b><br> 
+    <i>2024 - 2026</i><br> 
+    Obtained the Moroccan Baccalaureate — simultaneously building a company.<br><br> 
+
+    <b>💻 Full-Stack MZEN | Codecademy</b><br> 
+    <i>2023 - 2025</i><br> 
+    Self-taught full-stack engineer via <b>Codecademy</b> since 2023. Merging life problems with complex system architecture to build the future.
+</div>
+
     </td>
   </tr>
 </table>
