@@ -181,18 +181,21 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=ZakariaQasid&show_icons=true&theme=radical&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&count_private=true&include_all_commits=true&1" width="49.5%" />
+  <!-- Main Profile Stats & Top Languages Side-by-Side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaQasid&show_icons=true&theme=dark&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&bg_color=0d1117&border_color=2196F3&count_private=true&include_all_commits=true" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaQasid&layout=compact&theme=dark&title_color=00e5ff&text_color=ffffff&bg_color=0d1117&border_color=2196F3&hide_border=false" width="49.5%" />
 
+  <br><br>
 
-<br>
+  <!-- High-Contrast Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaQasid&background=0d1117&border=2196F3&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=8b949e" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaQasid&theme=dark&border=2196F3&stroke=2196F3&background=0d1117&PAT_1" width="100%" />
+  <br><br>
 
-<br>
-
-| 🕒 Daily Traffic | 📅 Monthly Traffic | 📆 Yearly Traffic | 📈 Total Engagement |
-| :---: | :---: | :---: | :---: |
-| ![D](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.daily&label=LIVE&countColor=%232196f3&style=flat-square) | ![M](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.monthly&label=MONTHLY&countColor=%232196f3&style=flat-square) | ![Y](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.yearly&label=YEARLY&countColor=%232196f3&style=flat-square) | ![Total](https://komarev.com/ghpvc/?username=ZakariaQasid&label=NETWORK+VISITS&color=2196F3&style=for-the-badge) |
+  <!-- Traffic & Engagement Metrics -->
+  | 🕒 Daily Traffic | 📅 Monthly Traffic | 📆 Yearly Traffic | 📈 Total Engagement |
+  | :---: | :---: | :---: | :---: |
+  | ![D](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.daily&label=LIVE&countColor=%232196f3&style=flat-square) | ![M](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.monthly&label=MONTHLY&countColor=%232196f3&style=flat-square) | ![Y](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.yearly&label=YEARLY&countColor=%232196f3&style=flat-square) | ![Total](https://komarev.com/ghpvc/?username=ZakariaQasid&label=NETWORK+VISITS&color=2196F3&style=for-the-badge) |
 
 </div>
 
@@ -206,17 +209,21 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
 
 ---
 
-## 📈 Activity Heatmap
+## 📈 Activity Heatmap & Contribution Matrix
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaQasid&background=00000000&border=00000000&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=8b949e&hide_border=true" width="100%" />
-</p>
+<div align="center">
+  <!-- Animated Contribution Grid Snake (100% Uptime, High Contrast Cyan) -->
+  <img src="https://raw.githubusercontent.com/ZakariaQasid/ZakariaQasid/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+</div>
 
+---
 
+## ⚡ Recent Activity & Neural Metrics
 
-
-
-
+<div align="center">
+  <!-- Dynamic GitHub Trophy Showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ZakariaQasid&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=true" width="100%" />
+</div>
 
 
 
