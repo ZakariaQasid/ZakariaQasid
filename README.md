@@ -177,33 +177,6 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
 
 ---
 
-# 📊 Neural Network Command Center
-
-<div align="center">
-
-  <!-- Profile Stats + Top Languages -->
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaQasid&show_icons=true&theme=dark&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&bg_color=0d1117&border_color=2196F3&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaQasid&layout=compact&theme=dark&title_color=00e5ff&text_color=ffffff&bg_color=0d1117&border_color=2196F3&hide_border=false" width="49%" />
-
-  <br><br>
-
-  <!-- GitHub Streak -->
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaQasid&background=0d1117&border=2196F3&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=8b949e" width="100%" />
-
-</div>
-
----
-
-## 🧪 Technological Arsenal
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,figma,nodejs,express,mongodb,git,github,vscode,vercel,postman,linux,powershell,npm" />
-
-</div>
-
 ---
 
 ## 📈 Activity Heatmap & Contribution Matrix
@@ -258,20 +231,6 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
 />
 
 </div>
-
----
-
-<div align="center">
-
-### ⚡ ZyTech™
-
-**BUILD → SHIP → SCALE**
-
-<sub>Engineering ideas into technology.</sub>
-
-</div>
-
-
 
 
 
