@@ -186,7 +186,7 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> â€
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaQasid&theme=dark&border=2196F3&stroke=2196F3&background=0d1117&PAT_1" width="100%" />
+
 
 <br>
 
@@ -206,11 +206,9 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> â€
 
 ---
 
-## ğŸ“ˆ Activity Heatmap
+## ğŸ“ˆ Streak Heatmap
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZakariaQasid&theme=react-dark&bg_color=0d1117&color=2196F3&line=2196F3&point=ffffff&hide_border=true" width="100%" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaQasid&theme=dark&border=2196F3&stroke=2196F3&background=0d1117&PAT_1" width="100%" />
 
 ---
 
