@@ -209,8 +209,9 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> â€
 ## ğŸ“ˆ Activity Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZakariaQasid&bg_color=00000000&color=00E5FF&line=00E5FF&point=FFFFFF&title_color=00E5FF&area_color=00E5FF33&hide_border=true" width="100%" />
+  <img src="https://ghchart.rshah.org/2196F3/ZakariaQasid" style="filter: invert(0.9) hue-rotate(180deg);" width="100%" />
 </p>
+
 
 
 
