@@ -177,62 +177,40 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
 
 ---
 
----
-
-## 📈 Activity Heatmap & Contribution Matrix
+## 📊 Neural Network Command Center (Global Analytics)
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/ZakariaQasid/ZakariaQasid/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
-/>
+<img src="https://github-stats-extended.vercel.app/api?username=ZakariaQasid&show_icons=true&theme=radical&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&count_private=true&include_all_commits=true&1" width="49.5%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZakariaQasid&layout=compact&theme=radical&title_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&langs_count=10&1" width="49.5%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaQasid&theme=dark&border=2196F3&stroke=2196F3&background=0d1117&PAT_1" width="100%" />
+
+<br>
+
+| 🕒 Daily Traffic | 📅 Monthly Traffic | 📆 Yearly Traffic | 📈 Total Engagement |
+| :---: | :---: | :---: | :---: |
+| ![D](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.daily&label=LIVE&countColor=%232196f3&style=flat-square) | ![M](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.monthly&label=MONTHLY&countColor=%232196f3&style=flat-square) | ![Y](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.yearly&label=YEARLY&countColor=%232196f3&style=flat-square) | ![Total](https://komarev.com/ghpvc/?username=ZakariaQasid&label=NETWORK+VISITS&color=2196F3&style=for-the-badge) |
 
 </div>
 
 ---
 
-## ⚡ Neural Metrics
+## 🧪 Technological Arsenal
 
 <div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=ZakariaQasid&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6"
-  alt="GitHub Profile Trophies"
-  width="100%"
-/>
-
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,figma,nodejs,express,mongodb,git,github,vscode,vercel,postman,linux,powershell,npm" />
 </div>
 
 ---
 
-## 🌐 Network Activity
+## 📈 Activity Heatmap
 
-<div align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=ZakariaQasid&label=PROFILE%20VIEWS&color=2196F3&style=for-the-badge"
-  alt="Profile Views"
-/>
-
-&nbsp;&nbsp;
-
-<img
-  src="https://img.shields.io/github/followers/ZakariaQasid?label=FOLLOWERS&style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&logoColor=00E5FF"
-  alt="GitHub Followers"
-/>
-
-&nbsp;&nbsp;
-
-<img
-  src="https://img.shields.io/github/stars/ZakariaQasid?label=STARS&style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&logoColor=00E5FF"
-  alt="GitHub Stars"
-/>
-
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZakariaQasid&theme=react-dark&bg_color=0d1117&color=2196F3&line=2196F3&point=ffffff&hide_border=true" width="100%" />
+</p>
 
 ---
 
