@@ -177,20 +177,35 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
 
 ---
 
-# 📊 Neural Network Command Center
+# 🧠 Neural Network Command Center
 
 <div align="center">
 
-  <!-- Profile Stats + Top Languages -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:001B2B,100:00E5FF&height=180&section=header&text=ZACH%20Q&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FOUNDER%20%26%20CEO%20%40%20ZyTech%E2%84%A2&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakariaQasid&show_icons=true&theme=dark&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&bg_color=0d1117&border_color=2196F3&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaQasid&layout=compact&theme=dark&title_color=00e5ff&text_color=ffffff&bg_color=0d1117&border_color=2196F3&hide_border=false" width="49%" />
+<br>
+
+### `SYSTEM STATUS :: ONLINE`   `MISSION :: BUILDING`   `NODE :: ZYTECH™`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ZakariaQasid-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF\&labelColor=0D1117)](https://github.com/ZakariaQasid)
+
+</div>
+
+---
+
+## 📊 Global Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ZakariaQasid&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&bg_color=0D1117" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaQasid&layout=compact&langs_count=8&hide_border=true&title_color=00E5FF&text_color=C9D1D9&bg_color=0D1117" width="49%" />
 
 <br><br>
 
-  <!-- GitHub Streak -->
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaQasid&background=0d1117&border=2196F3&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=8b949e" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaQasid&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" />
 
 </div>
 
@@ -200,34 +215,48 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,figma,nodejs,express,mongodb,git,github,vscode,vercel,postman,linux,powershell,npm" />
+### `CORE STACK`
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,mongodb,python,mysql" />
+
+<br><br>
+
+### `FRONTEND & DESIGN`
+
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" />
+
+<br><br>
+
+### `ENGINEERING & DEVOPS`
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,powershell,npm,vscode,vercel,postman" />
 
 </div>
 
 ---
 
-## 📈 Activity Heatmap & Contribution Matrix
+## 📈 Contribution Matrix
 
 <div align="center">
 
 <img
- src="https://raw.githubusercontent.com/ZakariaQasid/ZakariaQasid/output/github-contribution-grid-snake-dark.svg"
- alt="GitHub Contribution Grid Snake"
- width="100%"
+src="https://raw.githubusercontent.com/ZakariaQasid/ZakariaQasid/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+width="100%"
 />
 
 </div>
 
 ---
 
-## ⚡ Neural Metrics
+## 🏆 Achievement Protocol
 
 <div align="center">
 
 <img
- src="https://github-profile-trophy.vercel.app/?username=ZakariaQasid&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=true"
- width="100%"
- alt="GitHub Profile Trophies"
+src="https://github-profile-trophy.vercel.app/?username=ZakariaQasid&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10"
+alt="GitHub Trophies"
+width="100%"
 />
 
 </div>
@@ -238,10 +267,25 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
 
 <div align="center">
 
-<img
- src="https://komarev.com/ghpvc/?username=ZakariaQasid&label=PROFILE+VIEWS&color=2196F3&style=for-the-badge"
- alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=ZakariaQasid&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/ZakariaQasid?label=FOLLOWERS&style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&logoColor=00E5FF" alt="GitHub Followers" />
+
+<img src="https://img.shields.io/github/stars/ZakariaQasid?label=STARS&style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&logoColor=00E5FF" alt="GitHub Stars" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ `ZyTech™`
+
+**BUILD → SHIP → SCALE**
+
+<sub>Engineering ideas into technology.</sub>
 
 </div>
 
