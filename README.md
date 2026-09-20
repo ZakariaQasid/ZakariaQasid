@@ -151,7 +151,7 @@ I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> �
     <td width="50%" valign="top">
 
    <h3>🎓 Academic Foundation</h3> 
-     <b>🌐 Digital Development Trainee | OFPPT - ISAG Casablanca</b><br> 
+     <b>🌐 Digital Development Trainee | OFPPT - ISTA NTIC2 Sidi Maârouf</b><br> 
     <i>2026 - Present</i><br> 
     Accelerating technical mastery through hands-on industry experience at the Institut Spécialisé des Arts Graphiques.<br><br>
      <b>Physics & Chemistry | High School El Kindi (Bouskoura)</b><br> 
