@@ -16,7 +16,7 @@
 ## 🧬 Strategic Executive Summary
 
 <p align="left">
-I am <b>Zakaria Qasid</b>, the 17-year-old founder & CEO behind <b>ZyTech</b> — a parent holding company architecting the next generation of digital infrastructure. Our mission is centered on digital sovereignty and local-first data integrity. My expertise lies in high-performance full-stack engineering, focusing on modular infrastructure that empowers users through privacy. From <b>Codecademy</b> to <b>CEO</b>, I build systems where the user remains in total control of their data.
+I am <b>Zakaria Qasid</b>, the 18-year-old founder & CEO behind <b>ZyTech</b> — a parent holding company architecting the next generation of digital infrastructure. Our mission is centered on digital sovereignty and local-first data integrity. My expertise lies in high-performance full-stack engineering, focusing on modular infrastructure that empowers users through privacy. From <b>Codecademy</b> to <b>CEO</b>, I build systems where the user remains in total control of their data.
 </p>
 
 ---
