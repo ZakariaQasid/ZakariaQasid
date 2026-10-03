@@ -85,7 +85,7 @@
 
 | App | Version | Stage | Updated | What's new |
 | :---: | :---: | :---: | :---: | :--- |
-| **ZyCLOUD** | `—` | Pre-Beta | Jun 2026 | Local storage engine, encryption layer scaffolding |
+| **ZyCLOUD** | `1.0.0 (Rev D)` | Beta | Jun 2026 | Local storage engine, encryption layer scaffolding |
 | **ZyFOCUS** | `v1.5.0` | Active | Jun 2026 | UX overhaul, focus session improvements, bug fixes |
 | **ZyEXAM** | `—` | R&D | Jun 2026 | Initial architecture design and module planning |
 
@@ -181,7 +181,7 @@
 ![Daily](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.daily&label=TODAY&countColor=%232196f3&style=flat-square&labelColor=0d1117)
 ![Monthly](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.monthly&label=MONTHLY&countColor=%232196f3&style=flat-square&labelColor=0d1117)
 ![Yearly](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.yearly&label=YEARLY&countColor=%232196f3&style=flat-square&labelColor=0d1117)
-![Total](https://komarev.com/ghpvc/?username=ZakariaQasid&label=PROFILE+VIEWS&color=2196F3&style=flat-square&labelColor=0d1117)
+![Total](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.total&label=PROFILE+VIEWS&countColor=%232196f3&style=flat-square&labelColor=0d1117)
 
 <br>
 
