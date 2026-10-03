@@ -94,11 +94,11 @@ I am <b>Zakaria Qasid</b>, the 18-year-old founder & CEO behind <b>ZyTech</b> �
 
 | Phase | Timeline | Milestone | Division | Status |
 | :---: | :---: | :--- | :---: | :---: |
-| Phase I | Q3 2026 | ZyFOCUS UX Finalization & Stable Release | ZyServices | 🔴 R&D Phase - Mid Update |
-| Phase II | Q4 2026 | **ZyCLOUD Beta Launch** | ZyServices | 🟢 Beta |
-| Phase III | Q2 2027 | **ZyEXAM Platform Integration** | ZyServices | 🔵 Planned |
-| Phase IV | Q3 2027 | ZyOD B2B Division Official Launch | ZyOD | 🔵 Planned |
-| Phase V | Q4 2027 | ZyFuture R&D Division Launch | ZyFuture | 🔵 Planned |
+| Phase I | Q3 2026 | ZyFOCUS UX Finalization & Stable Release | ZyServices | 🔴 R&D Phase - Mid Update (maintenance) | visit at : https://zyfocusg.vercel.app
+| Phase II | Q4 2026 | **ZyCLOUD Beta Launch** | ZyServices | 🟢 Beta | visit at : https://zycloud.vercel.app 
+| Phase III | Q2 2027 | **ZyEXAM Platform Integration** | ZyServices | 🔵 Planned (Prototype) | https://zyexam.vercel.app
+| Phase IV | Unkown | ZyOD B2B Division Official Launch | ZyOD | 🔵 Planned |
+| Phase V | Unkown | ZyFuture R&D Division Launch | ZyFuture | 🔵 Planned |
 
 </div>
 
