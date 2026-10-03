@@ -1,112 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2196F3&height=220&section=header&text=Zakaria%20Qasid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20of%20ZyTech&descSize=20&descAlignY=60" width="100%" alt="Header" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2196F3&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Engineer;Local-First+%7C+Privacy+by+Design;Building+the+future+of+digital+sovereignty" alt="Typing SVG" />
+<img src="./assets/header.svg" width="100%" alt="Zakaria Qasid, Founder and CEO of ZyTech" />
 
 <br>
 
-<img src="https://github.com/ZakariaQasid.png" alt="Zakaria Qasid" width="150" height="150" style="border-radius: 50%; border: 3px solid #2196F3;" />
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2196F3?style=for-the-badge&logo=vercel&logoColor=white)](https://zytechg.vercel.app/ceo.html)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-qasid-637989266/)
+[![Patreon](https://img.shields.io/badge/SUPPORT-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/zyservices)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZakariaQasid)
 
-<br><br>
+<img src="https://img.shields.io/badge/ZyServices-ACTIVE-2ea043?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/ZyCLOUD-BETA-2196F3?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/ZyFOCUS-v1.5.0-7C4DFF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/ZyEXAM-PROTOTYPE-00B8D4?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Based_in-Casablanca,_MA-555555?style=flat-square&labelColor=0d1117" />
 
-**Casablanca, Morocco** &nbsp;·&nbsp; **ZyTech Global Infrastructure**
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+<img src="./assets/sec-about.svg" width="100%" alt="About" />
 
 <br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=vercel&logoColor=white)](https://zytechg.vercel.app/ceo.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-qasid-637989266/)
-[![Patreon](https://img.shields.io/badge/Support-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/zyservices)
-
-</div>
-
----
-
-## About
-
-I'm **Zakaria Qasid**, 18-year-old founder and CEO of **ZyTech**, a parent holding company building the next generation of digital infrastructure. Our mission is **digital sovereignty** and **local-first data integrity**: modular, high-performance systems where the user stays in full control of their data.
-
-From Codecademy to CEO, I build products that put privacy first.
-
----
-
-## Quick Links
-
-<div align="center">
-
-| Product | Description | Status | Link |
-| :--- | :--- | :---: | :---: |
-| **ZyCLOUD** | Storage without the need for the cloud | ![Beta](https://img.shields.io/badge/Beta-2ea043?style=flat-square) | [![Visit](https://img.shields.io/badge/zycloud.vercel.app-2196F3?style=flat-square&logo=vercel&logoColor=white)](https://zycloud.vercel.app) |
-| **ZyFOCUS** | A productivity ecosystem for focused work | ![Maintenance](https://img.shields.io/badge/Maintenance-d29922?style=flat-square) | [![Visit](https://img.shields.io/badge/zyfocusg.vercel.app-2196F3?style=flat-square&logo=vercel&logoColor=white)](https://zyfocusg.vercel.app) |
-| **ZyEXAM** | Next-gen academic assessment systems | ![Prototype](https://img.shields.io/badge/Prototype-1f6feb?style=flat-square) | [![Visit](https://img.shields.io/badge/zyexam.vercel.app-2196F3?style=flat-square&logo=vercel&logoColor=white)](https://zyexam.vercel.app) |
-| **ZyTech** | Corporate site and executive portfolio | ![Live](https://img.shields.io/badge/Live-2ea043?style=flat-square) | [![Visit](https://img.shields.io/badge/zytechg.vercel.app-2196F3?style=flat-square&logo=vercel&logoColor=white)](https://zytechg.vercel.app/ceo.html) |
-
-</div>
-
----
-
-## The ZyTech Architecture
-
-*One parent company. Three specialized divisions. One unified mission.*
-
-<div align="center">
-
-```
-                  ┌────────────────────────────────┐
-                  │            ZYTECH              │
-                  │     Parent Holding Company     │
-                  └───────────────┬────────────────┘
-                                  │
-         ┌────────────────────────┼────────────────────────┐
-         │                        │                        │
- ┌───────┴────────┐       ┌───────┴────────┐       ┌───────┴────────┐
- │  ZYSERVICES    │       │     ZYOD       │       │   ZYFUTURE     │
- │ Consumer Branch│       │  B2B Division  │       │  R&D Division  │
- │    [ ACTIVE ] │       │   [ PLANNED ]  │       │   [ PLANNED ]  │
- └────────────────┘       └────────────────┘       └────────────────┘
-```
-
-</div>
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">ZyServices</h3>
-      <p align="center"><b>Consumer Services</b><br><img src="https://img.shields.io/badge/ACTIVE-2196F3?style=flat-square" /></p>
-      The primary arm of ZyTech. Builds consumer-facing products (<b>ZyCLOUD</b>, <b>ZyFOCUS</b>, <b>ZyEXAM</b>) centered on local-first storage, productivity and education.
+    <td width="170" align="center" valign="middle">
+      <img src="https://github.com/ZakariaQasid.png" alt="Zakaria Qasid" width="140" height="140" style="border-radius: 50%; border: 3px solid #2196F3;" />
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">ZyOD</h3>
-      <p align="center"><b>B2B Enterprise</b><br><img src="https://img.shields.io/badge/PLANNED-555555?style=flat-square" /></p>
-      ZyTech's business-to-business channel. Enterprise-grade solutions, infrastructure licensing and white-label products for organizations that demand privacy-first stacks.
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">ZyFuture</h3>
-      <p align="center"><b>Research & Innovation</b><br><img src="https://img.shields.io/badge/PLANNED-555555?style=flat-square" /></p>
-      ZyTech's R&D division: <b>AI model enhancement</b>, next-generation <b>NFT frameworks</b> and applied research into post-cloud and decentralized architectures.
+    <td valign="middle">
+      <p>I'm <b>Zakaria Qasid</b>, 18-year-old founder and CEO of <b>ZyTech</b>, a parent holding company building the next generation of digital infrastructure.</p>
+      <p>Our mission is <b>digital sovereignty</b> and <b>local-first data integrity</b>: modular, high-performance systems where the user stays in full control of their data. From Codecademy to CEO, I build products that put privacy first.</p>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-## Roadmap 2026 – 2027
+<img src="./assets/sec-links.svg" width="100%" alt="Quick Links" />
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center"><a href="https://zycloud.vercel.app"><img src="./assets/card-zycloud.svg" width="100%" alt="ZyCLOUD" /></a></td>
+    <td width="33%" align="center"><a href="https://zyfocusg.vercel.app"><img src="./assets/card-zyfocus.svg" width="100%" alt="ZyFOCUS" /></a></td>
+    <td width="33%" align="center"><a href="https://zyexam.vercel.app"><img src="./assets/card-zyexam.svg" width="100%" alt="ZyEXAM" /></a></td>
+  </tr>
+</table>
 
 <div align="center">
 
-| Phase | Timeline | Milestone | Division | Status |
-| :---: | :---: | :--- | :---: | :---: |
-| I | Q3 2026 | ZyFOCUS UX finalization and stable release | ZyServices | ![Maintenance](https://img.shields.io/badge/-Maintenance-d29922?style=flat-square) |
-| II | Q4 2026 | ZyCLOUD beta launch | ZyServices | ![Beta](https://img.shields.io/badge/-Beta-2ea043?style=flat-square) |
-| III | Q2 2027 | ZyEXAM platform integration | ZyServices | ![Prototype](https://img.shields.io/badge/-Prototype-1f6feb?style=flat-square) |
-| IV | TBA | ZyOD B2B division launch | ZyOD | ![Planned](https://img.shields.io/badge/-Planned-555555?style=flat-square) |
-| V | TBA | ZyFuture R&D division launch | ZyFuture | ![Planned](https://img.shields.io/badge/-Planned-555555?style=flat-square) |
+[![Executive Portfolio](https://img.shields.io/badge/ZyTech_Executive_Portfolio-zytechg.vercel.app-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://zytechg.vercel.app/ceo.html)
 
 </div>
 
----
+<br>
 
-## Latest Releases
+<img src="./assets/sec-arch.svg" width="100%" alt="Architecture" />
+
+<br>
+
+<div align="center">
+  <img src="./assets/architecture.svg" width="100%" alt="ZyTech architecture: ZyServices, ZyOD, ZyFuture" />
+</div>
+
+<br>
+
+<img src="./assets/sec-roadmap.svg" width="100%" alt="Roadmap" />
+
+<br>
+
+<div align="center">
+  <img src="./assets/roadmap.svg" width="100%" alt="Roadmap 2026 to 2027" />
+</div>
+
+<br>
+
+<img src="./assets/sec-releases.svg" width="100%" alt="Latest Releases" />
+
+<br>
 
 <div align="center">
 
@@ -120,9 +93,11 @@ From Codecademy to CEO, I build products that put privacy first.
 
 </div>
 
----
+<br>
 
-## Featured Repositories
+<img src="./assets/sec-repos.svg" width="100%" alt="Repositories" />
+
+<br>
 
 <div align="center">
 
@@ -134,55 +109,63 @@ From Codecademy to CEO, I build products that put privacy first.
 
 </div>
 
----
+<br>
 
-## Experience & Education
+<img src="./assets/sec-exp.svg" width="100%" alt="Experience and Education" />
+
+<br>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Current Role</h3>
-      <b>CEO & Founder, ZyTech</b><br>
+      <h3>🚀 Current Role</h3>
+      <b>CEO &amp; Founder, ZyTech</b><br>
       <i>2025 – Present</i><br><br>
       Leading development of <b>ZyUI</b> and the full <b>ZyServices</b> product suite, and overseeing corporate architecture across all three ZyTech divisions. Specializing in local-first applications built on on-device storage and encryption.
     </td>
     <td width="50%" valign="top">
-      <h3>Education</h3>
+      <h3>🎓 Education</h3>
       <b>Digital Development Trainee</b>, OFPPT – ISTA NTIC2 Sidi Maârouf<br>
       <i>2026 – Present</i><br><br>
-      <b>Physics & Chemistry</b>, High School El Kindi (Bouskoura)<br>
-      <i>2024 – 2026</i><br>
-      Moroccan Baccalaureate, earned while building a company.<br><br>
+      <b>Physics &amp; Chemistry</b>, High School El Kindi (Bouskoura)<br>
+      <i>2024 – 2026</i> · Moroccan Baccalaureate, earned while building a company.<br><br>
       <b>Full-Stack Development</b>, Codecademy<br>
-      <i>2023 – 2025</i><br>
-      Self-taught full-stack engineer.
+      <i>2023 – 2025</i> · Self-taught full-stack engineer.
     </td>
   </tr>
 </table>
 
----
+<br>
 
-## Engineering Principles
+<img src="./assets/sec-principles.svg" width="100%" alt="Engineering Principles" />
 
-| | Principle | In practice |
-| :---: | :--- | :--- |
-| ⚡ | **Performance first** | Vanilla JS / HTML / CSS to eliminate framework overhead |
-| 📂 | **Local-first** | On-device data storage before anything touches the wire |
-| 🧩 | **Modular design** | Reusable UI components via the **ZyUI** framework |
-| 🔐 | **Privacy by design** | Encryption at the architectural level, never an afterthought |
-| 🏗️ | **Systems thinking** | Every decision made across all ZyTech divisions |
+<br>
 
----
+<table width="100%">
+  <tr>
+    <td width="20%" align="center" valign="top"><h2>⚡</h2><b>Performance First</b><br><sub>Vanilla JS / HTML / CSS, zero framework overhead</sub></td>
+    <td width="20%" align="center" valign="top"><h2>📂</h2><b>Local-First</b><br><sub>On-device storage before anything touches the wire</sub></td>
+    <td width="20%" align="center" valign="top"><h2>🧩</h2><b>Modular Design</b><br><sub>Reusable components via the ZyUI framework</sub></td>
+    <td width="20%" align="center" valign="top"><h2>🔐</h2><b>Privacy by Design</b><br><sub>Encryption at the architecture level</sub></td>
+    <td width="20%" align="center" valign="top"><h2>🏗️</h2><b>Systems Thinking</b><br><sub>Every decision made across all divisions</sub></td>
+  </tr>
+</table>
 
-## Tech Stack
+<br>
+
+<img src="./assets/sec-stack.svg" width="100%" alt="Tech Stack" />
+
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,figma,nodejs,express,mongodb,git,github,vscode,vercel,postman,linux,powershell,npm" />
 </div>
 
----
+<br>
 
-## GitHub Analytics
+<img src="./assets/sec-stats.svg" width="100%" alt="Analytics" />
+
+<br>
 
 <div align="center">
 
@@ -195,23 +178,13 @@ From Codecademy to CEO, I build products that put privacy first.
 
 <br><br>
 
-![Daily](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.daily&label=TODAY&countColor=%232196f3&style=flat-square)
-![Monthly](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.monthly&label=MONTHLY&countColor=%232196f3&style=flat-square)
-![Yearly](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.yearly&label=YEARLY&countColor=%232196f3&style=flat-square)
-![Total](https://komarev.com/ghpvc/?username=ZakariaQasid&label=PROFILE+VIEWS&color=2196F3&style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2500&color=2196F3&center=true&vCenter=true&width=800&height=40&lines=The+best+way+to+predict+the+future+is+to+invent+it.;Move+fast+and+build+things+that+matter.;Privacy+is+not+an+option%2C+it's+a+foundation." alt="Quotes" />
+![Daily](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.daily&label=TODAY&countColor=%232196f3&style=flat-square&labelColor=0d1117)
+![Monthly](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.monthly&label=MONTHLY&countColor=%232196f3&style=flat-square&labelColor=0d1117)
+![Yearly](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.yearly&label=YEARLY&countColor=%232196f3&style=flat-square&labelColor=0d1117)
+![Total](https://komarev.com/ghpvc/?username=ZakariaQasid&label=PROFILE+VIEWS&color=2196F3&style=flat-square&labelColor=0d1117)
 
 <br>
 
-**Thank you for visiting the digital headquarters of ZyTech.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
+<img src="./assets/footer.svg" width="100%" alt="ZyTech" />
 
 </div>
