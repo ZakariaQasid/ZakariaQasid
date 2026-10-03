@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/ZyEXAM-PROTOTYPE-00B8D4?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Based_in-Casablanca,_MA-555555?style=flat-square&labelColor=0d1117" />
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/ticker.svg" width="100%" alt="ZyCLOUD, ZyFOCUS, ZyEXAM, ZyUI" />
 
 </div>
 
@@ -35,7 +35,11 @@
   </tr>
 </table>
 
-<br>
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal" />
+</div>
+
+<img src="./assets/stars.svg" width="100%" alt="" />
 
 <img src="./assets/sec-links.svg" width="100%" alt="Quick Links" />
 
@@ -55,7 +59,7 @@
 
 </div>
 
-<br>
+<img src="./assets/stars.svg" width="100%" alt="" />
 
 <img src="./assets/sec-arch.svg" width="100%" alt="Architecture" />
 
@@ -65,7 +69,7 @@
   <img src="./assets/architecture.svg" width="100%" alt="ZyTech architecture: ZyServices, ZyOD, ZyFuture" />
 </div>
 
-<br>
+<img src="./assets/stars.svg" width="100%" alt="" />
 
 <img src="./assets/sec-roadmap.svg" width="100%" alt="Roadmap" />
 
@@ -75,7 +79,7 @@
   <img src="./assets/roadmap.svg" width="100%" alt="Roadmap 2026 to 2027" />
 </div>
 
-<br>
+<img src="./assets/stars.svg" width="100%" alt="" />
 
 <img src="./assets/sec-releases.svg" width="100%" alt="Latest Releases" />
 
@@ -85,7 +89,7 @@
 
 | App | Version | Stage | Updated | What's new |
 | :---: | :---: | :---: | :---: | :--- |
-| **ZyCLOUD** | `1.0.0 (Rev D)` | Beta | Jun 2026 | Local storage engine, encryption layer scaffolding |
+| **ZyCLOUD** | `—` | Pre-Beta | Jun 2026 | Local storage engine, encryption layer scaffolding |
 | **ZyFOCUS** | `v1.5.0` | Active | Jun 2026 | UX overhaul, focus session improvements, bug fixes |
 | **ZyEXAM** | `—` | R&D | Jun 2026 | Initial architecture design and module planning |
 
@@ -93,7 +97,7 @@
 
 </div>
 
-<br>
+<img src="./assets/stars.svg" width="100%" alt="" />
 
 <img src="./assets/sec-repos.svg" width="100%" alt="Repositories" />
 
@@ -109,7 +113,7 @@
 
 </div>
 
-<br>
+<img src="./assets/stars.svg" width="100%" alt="" />
 
 <img src="./assets/sec-exp.svg" width="100%" alt="Experience and Education" />
 
@@ -135,7 +139,7 @@
   </tr>
 </table>
 
-<br>
+<img src="./assets/stars.svg" width="100%" alt="" />
 
 <img src="./assets/sec-principles.svg" width="100%" alt="Engineering Principles" />
 
@@ -151,7 +155,7 @@
   </tr>
 </table>
 
-<br>
+<img src="./assets/stars.svg" width="100%" alt="" />
 
 <img src="./assets/sec-stack.svg" width="100%" alt="Tech Stack" />
 
@@ -161,7 +165,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,figma,nodejs,express,mongodb,git,github,vscode,vercel,postman,linux,powershell,npm" />
 </div>
 
-<br>
+<img src="./assets/stars.svg" width="100%" alt="" />
 
 <img src="./assets/sec-stats.svg" width="100%" alt="Analytics" />
 
@@ -181,7 +185,7 @@
 ![Daily](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.daily&label=TODAY&countColor=%232196f3&style=flat-square&labelColor=0d1117)
 ![Monthly](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.monthly&label=MONTHLY&countColor=%232196f3&style=flat-square&labelColor=0d1117)
 ![Yearly](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.yearly&label=YEARLY&countColor=%232196f3&style=flat-square&labelColor=0d1117)
-![Total](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.total&label=PROFILE+VIEWS&countColor=%232196f3&style=flat-square&labelColor=0d1117)
+![Total](https://komarev.com/ghpvc/?username=ZakariaQasid&label=PROFILE+VIEWS&color=2196F3&style=flat-square)
 
 <br>
 
