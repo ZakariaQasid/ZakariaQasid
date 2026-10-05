@@ -185,7 +185,7 @@
 ![Daily](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.daily&label=TODAY&countColor=%232196f3&style=flat-square&labelColor=0d1117)
 ![Monthly](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.monthly&label=MONTHLY&countColor=%232196f3&style=flat-square&labelColor=0d1117)
 ![Yearly](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.yearly&label=YEARLY&countColor=%232196f3&style=flat-square&labelColor=0d1117)
-![Total](https://komarev.com/ghpvc/?username=ZakariaQasid&label=PROFILE+VIEWS&color=2196F3&style=flat-square)
+![Total](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.total&label=PROFILE+VIEWS&countColor=%232196f3&style=flat-square&labelColor=0d1117)
 
 <br>
 
