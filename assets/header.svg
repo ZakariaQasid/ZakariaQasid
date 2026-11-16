@@ -35,6 +35,6 @@
 <text x="1148" y="58" text-anchor="end" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="13" fill="#7fc8ff" letter-spacing="3">CASABLANCA · MA</text>
 <text class="glow" x="600" y="164" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="78" font-weight="700" fill="#4dc3ff" letter-spacing="3" filter="url(#nb)">Zakaria Qasid</text><text class="fade" x="600" y="164" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="78" font-weight="700" fill="url(#name)" letter-spacing="3">Zakaria Qasid</text>
 <rect class="rule" x="300" y="190" width="600" height="2" fill="url(#rule)"/>
-<text class="fade2" x="600" y="228" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#d6ecff" letter-spacing="9">FOUNDER &amp; CEO  ·  ZYTECH</text>
+<text class="fade2" x="600" y="228" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#d6ecff" letter-spacing="9">FOUNDER  ·  ZYTECH</text>
 <text class="fade3" x="600" y="266" text-anchor="middle" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="15" fill="#7fc8ff" letter-spacing="2">local-first  /  privacy by design  /  digital sovereignty<tspan class="blink" fill="#4dc3ff"> _</tspan></text>
 <g clip-path="url(#hc)"><rect class="sweep" x="0" y="0" width="260" height="320" fill="url(#swg)"/></g></svg>
