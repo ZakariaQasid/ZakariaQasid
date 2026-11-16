@@ -29,7 +29,7 @@
       <img src="https://github.com/ZakariaQasid.png" alt="Zakaria Qasid" width="140" height="140" style="border-radius: 50%; border: 3px solid #2196F3;" />
     </td>
     <td valign="middle">
-      <p>I'm <b>Zakaria Qasid</b>, 18-year-old founder and CEO of <b>ZyTech</b>, a parent holding company building the next generation of digital infrastructure.</p>
+      <p>I'm <b>Zakaria Qasid</b>, 18-year-old founder of <b>ZyTech</b>, a parent holding company building the next generation of digital infrastructure.</p>
       <p>Our mission is <b>digital sovereignty</b> and <b>local-first data integrity</b>: modular, high-performance systems where the user stays in full control of their data. From Codecademy to CEO, I build products that put privacy first.</p>
     </td>
   </tr>
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-[![Executive Portfolio](https://img.shields.io/badge/ZyTech_Executive_Portfolio-zytechg.vercel.app-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://zytechg.vercel.app/ceo.html)
+[![Executive Portfolio](https://img.shields.io/badge/ZyTech_Executive_Portfolio-zytechg.vercel.app-2196F3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://zytechg.vercel.app/)
 
 </div>
 
@@ -123,7 +123,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Current Role</h3>
-      <b>CEO &amp; Founder, ZyTech</b><br>
+      <b>Founder, ZyTech</b><br>
       <i>2025 – Present</i><br><br>
       Leading development of <b>ZyUI</b> and the full <b>ZyServices</b> product suite, and overseeing corporate architecture across all three ZyTech divisions. Specializing in local-first applications built on on-device storage and encryption.
     </td>
